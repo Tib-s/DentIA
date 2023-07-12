@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DentIA/static/css/main.d7da34c1.css",
+    "main.js": "/DentIA/static/js/main.234c2256.js",
+    "static/media/video.mp4": "/DentIA/static/media/video.5e99e70107e8538462e6.mp4",
+    "static/media/svg-1.svg": "/DentIA/static/media/svg-1.198c883546a77ed301550e05e51d4c28.svg",
+    "static/media/svg-2.svg": "/DentIA/static/media/svg-2.b8e417785e2f2402ede1cb79a71f5e6f.svg",
+    "static/media/svg-3.svg": "/DentIA/static/media/svg-3.d274da2e866711177649f5d8d64265c1.svg",
+    "index.html": "/DentIA/index.html",
+    "main.d7da34c1.css.map": "/DentIA/static/css/main.d7da34c1.css.map",
+    "main.234c2256.js.map": "/DentIA/static/js/main.234c2256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.234c2256.js"
+  ]
+}
